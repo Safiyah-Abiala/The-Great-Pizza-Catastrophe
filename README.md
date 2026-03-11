@@ -1,5 +1,3 @@
-# The-Great-Pizza-Catastrophe
-A minigame using python
 # 🍕 The Great Pizza Catastrophe
 
 A spooky and humorous **text-based adventure game** built with Python where the player makes choices that determine how the story ends.
