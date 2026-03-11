@@ -79,7 +79,7 @@ cd The-Great-Pizza-Catastrophe
 Run the Python file
 
 ```
-The Great Pizza Catastrophe.py
+great-pizza-catastrophe.py
 ```
 
 ---
