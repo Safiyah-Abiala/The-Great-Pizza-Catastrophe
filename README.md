@@ -67,13 +67,13 @@ great-pizza-catastrophe-game/
 Clone the repository
 
 ```
-git clone https://github.com/yourusername/great-pizza-catastrophe-game.git
+git clone https://safiyah-abiala.github.io/The-Great-Pizza-Catastrophe/
 ```
 
 Navigate into the project folder
 
 ```
-cd great-pizza-catastrophe-game
+cd The-Great-Pizza-Catastrophe
 ```
 
 Run the Python file
