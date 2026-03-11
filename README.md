@@ -73,7 +73,7 @@ git clone https://safiyah-abiala.github.io/The-Great-Pizza-Catastrophe/
 Navigate into the project folder
 
 ```
-cd The-Great-Pizza-Catastrophe
+The-Great-Pizza-Catastrophe
 ```
 
 Run the Python file
@@ -98,7 +98,7 @@ This project was created to practice fundamental Python programming concepts suc
 
 ## 👩‍💻 Author
 
-**Safiyah**
+**Abiala Safiyah**
 
 Aspiring Data Analyst learning Python and other data analytics tools.
 
