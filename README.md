@@ -54,9 +54,9 @@ The game uses conditional logic and user input to create multiple story paths.
 ## 📂 Project Structure
 
 ```
-great-pizza-catastrophe-game/
+The-Great-Pizza-Catastrophe/
 │
-├── pizza_game.py
+├── great-pizza-catastrophe.py
 └── README.md
 ```
 
